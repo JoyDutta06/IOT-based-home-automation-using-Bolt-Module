@@ -1,0 +1,18 @@
+<html>
+<head>
+<script type="text/javascript" src="http://cloud.boltiot.com/static/js/boltCommands.js">
+</script>
+<script type="text/javascript">
+setKey('{{ ApiKey }}','{{ Name }}');
+setDebug(False);
+</script>
+</head>
+<body>
+<center>
+<button onclick='analogWrite(0,0)'; 
+style="height:50px;width:75px">ON</button><br>
+<button onclick='analogWrite(0,255)'; 
+style="height:50px;width:75px">OFF</button><br>
+</center>
+</body>
+</html>
