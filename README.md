@@ -13,5 +13,8 @@ Bolt IoT platform gives you the capability to control your devices and collect d
 
 **Photo:-**
 
+![whatsapp image 2018-08-22 at 3 25 44 pm](https://user-images.githubusercontent.com/29785503/44460281-1969c700-a62a-11e8-99db-83536583a45d.jpeg)
+
+
 
 
